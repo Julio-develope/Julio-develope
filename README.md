@@ -14,8 +14,8 @@
 
 ---
 
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBussola&layout=compact&theme=dark)
+### General Language Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=dark)
 
 ---
 

@@ -11,6 +11,14 @@
 
 ## Julio Cesar dos Santos GitHub Stats
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoBussola&show_icons=true&theme=dark&count_private=true)
+### Most Used Front-End Languages:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Vue.js** (se você usa)
+- **Angular** (se você usa)
 
 ---
 

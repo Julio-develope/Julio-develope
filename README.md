@@ -19,16 +19,6 @@
 
 ---
 
-### GitHub Statistics:
-- **Total Stars Earned:** 0
-- **Total Commits:** 3
-- **Total PRs:** 10
-- **Total Issues:** 10
-- **Contributed to (last year):** 1
-
-
----
-
 ### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&link=https://developer.mozilla.org/en-US/docs/Web/CSS)

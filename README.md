@@ -5,7 +5,7 @@
 - ⚡ **Fun fact:** Passionate about Literature and Card Games
 
 ## Rank in Code Wars!
-![CodeWars]([https://www.codewars.com/users/JulioCesar/badges/large](https://www.codewars.com/users/Julio%20%20Cesar/badges/large))
+![CodeWars](https://www.codewars.com/users/Julio%20%20Cesar/badges/large)
 
 ---
 

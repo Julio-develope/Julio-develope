@@ -20,28 +20,43 @@
 ---
 
 ### GitHub Statistics:
-- **Total Stars Earned:** 14
-- **Total Commits:** 353
+- **Total Stars Earned:** 0
+- **Total Commits:** 3
 - **Total PRs:** 10
-- **Total Issues:** 54
-- **Contributed to (last year):** 6
+- **Total Issues:** 10
+- **Contributed to (last year):** 1
+
 
 ---
 
-### Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+### Front-end
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&link=https://www.typescriptlang.org/)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&link=https://reactjs.org/)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&link=https://vuejs.org/)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&link=https://angular.io/)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&link=https://sass-lang.com/)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&link=https://getbootstrap.com/)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&link=https://tailwindcss.com/)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&link=https://jquery.com/)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&link=https://nodejs.org/)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&link=https://expressjs.com/)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&link=https://nestjs.com/)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&link=https://golang.org/)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&link=https://www.java.com/)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&link=https://spring.io/)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&link=https://www.python.org/)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&link=https://www.djangoproject.com/)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&link=https://www.php.net/)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&link=https://laravel.com/)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&link=https://www.ruby-lang.org/)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=rubyonrails&link=https://rubyonrails.org/)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&link=https://docs.microsoft.com/en-us/dotnet/csharp/)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&link=https://dotnet.microsoft.com/)
 
 ---
 

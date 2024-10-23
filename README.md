@@ -5,11 +5,11 @@
 - ⚡ **Fun fact:** Passionate about Literature and Card Games
 
 ## Rank in Code Wars!
-![CodeWars](https://www.codewars.com/users/ThiagoBussola/badges/large)
+![CodeWars](https://www.codewars.com/users/JulioCesar/badges/large)
 
 ---
 
-## Thiago Bussola da Silva's GitHub Stats
+## Julio Cesar dos Santos GitHub Stats
 ![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoBussola&show_icons=true&theme=dark&count_private=true)
 
 ---
